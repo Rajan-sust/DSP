@@ -5,18 +5,18 @@
 2. Create a Sinusoidal Signal y(n) and plot the signal.
 3. Create 3 Sinusoidal signal y1, y2, y3. then combine them and plot it.
 4. Plot the basic signals like unit impulse, unit samples, unit step, exponential, unit ramp (discussed in classes) etc.
-5. Sampling
-   * Sampling of a Signal... take a signal then sample using a sampling rate.
-   * Sampling Theorem Experiment.
+5.
+* Sampling of a Signal... take a signal then sample using a sampling rate.
+* Sampling Theorem Experiment.
 6. Determination of Power Spectrum of a given signal.
 
 # Core
-7. 
-   * Implement some basic systems like Adder, Multiplier, Delay, Advanced ... etc.
-   * Implementing a system from a system input/output equation (i.e. y(n) = .25 y(n-1) + 1.25 x(n-1) + .25 x(n))
+7.
+* Implement some basic systems like Adder, Multiplier, Delay, Advanced ... etc.
+* Implementing a system from a system input/output equation (i.e. y(n) = .25 y(n-1) + 1.25 x(n-1) + .25 x(n))
 8. 
-   * Implement Moving average filter, Median Filter, Accumulator etc.
-   * Noise removal: Add noise and then remove.
+* Implement Moving average filter, Median Filter, Accumulator etc.
+* Noise removal: Add noise and then remove.
 9. Representing a signal using unit impulse signal.
 10. Linear Convolution using Equation
 11. DFT/IDFT -> Composite Sinusoidal Signal to see the frequencies
